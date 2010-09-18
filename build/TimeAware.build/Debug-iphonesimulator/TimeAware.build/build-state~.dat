@@ -1,0 +1,278 @@
+TTimeAware
+v7
+r0
+t305659604.141803
+cCheck dependencies
+cProcessInfoPlistFile /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/Info.plist TimeAware-Info.plist
+cCompileXIB /Users/JohnJNichols4/Documents/TimeAware/MainWindow.xib
+cCompileXIB /Users/JohnJNichols4/Documents/TimeAware/SecondView.xib
+cCompileXIB /Users/JohnJNichols4/Documents/TimeAware/FirstView.xib
+cProcessPCH /var/folders/bx/bxvtdg4LHPeWy0BP1f38xk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TimeAware_Prefix-ftgixysaxiceefdycaxoledxwuct/TimeAware_Prefix.pch.gch TimeAware_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/main.o /Users/JohnJNichols4/Documents/TimeAware/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/TimeAwareAppDelegate.o /Users/JohnJNichols4/Documents/TimeAware/Classes/TimeAwareAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/FirstViewController.o /Users/JohnJNichols4/Documents/TimeAware/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/TimeAware normal i386
+cGenerateDSYMFile /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app.dSYM /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/TimeAware
+cTouch /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C64A2A00000000000000132
+t1281663648
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/JohnJNichols4/Documents/TimeAware/Classes/FirstViewController.h
+c000000004C87C6ED00000000000000DD
+t1283966701
+s221
+i<UIKit/UIKit.h>
+
+N/Users/JohnJNichols4/Documents/TimeAware/Classes/FirstViewController.m
+c000000004C87C6ED00000000000005A4
+t1283966701
+s1444
+i"FirstViewController.h"
+
+N/Users/JohnJNichols4/Documents/TimeAware/Classes/TimeAwareAppDelegate.h
+c000000004C87C6ED00000000000001D0
+t1283966701
+s464
+i<UIKit/UIKit.h>
+
+N/Users/JohnJNichols4/Documents/TimeAware/Classes/TimeAwareAppDelegate.m
+c000000004C87C6ED0000000000000C2E
+t1283966701
+s3118
+i"TimeAwareAppDelegate.h"
+
+N/Users/JohnJNichols4/Documents/TimeAware/FirstView.xib
+c000000004C87C6ED00000000000049D3
+t1283966701
+s18899
+
+N/Users/JohnJNichols4/Documents/TimeAware/MainWindow.xib
+c000000004C87C6ED0000000000006436
+t1283966701
+s25654
+
+N/Users/JohnJNichols4/Documents/TimeAware/SecondView.xib
+c000000004C87C6ED00000000000049D1
+t1283966701
+s18897
+
+N/Users/JohnJNichols4/Documents/TimeAware/TimeAware_Prefix.pch
+c000000004C87C6ED00000000000000BB
+t1283966701
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app
+t1283966804
+s272
+
+N/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app.dSYM
+t1283966804
+s102
+
+N/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/FirstView.nib
+t1283966802
+s1707
+
+N/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/Info.plist
+t1283966802
+s599
+
+N/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/MainWindow.nib
+t1283966802
+s1696
+
+N/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/PkgInfo
+t1283966802
+s8
+
+N/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/SecondView.nib
+t1283966802
+s1706
+
+N/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/TimeAware
+t1283966804
+s17148
+
+N/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/FirstViewController.o
+t1283966803
+s34360
+
+N/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/TimeAware.LinkFileList
+c000000004C87C751000000000000019F
+t1283966801
+s415
+
+N/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/TimeAwareAppDelegate.o
+t1283966803
+s51228
+
+N/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/main.o
+t1283966803
+s6308
+
+N/Users/JohnJNichols4/Documents/TimeAware/main.m
+c000000004C87C6ED0000000000000158
+t1283966701
+s344
+i<UIKit/UIKit.h>
+
+N/var/folders/bx/bxvtdg4LHPeWy0BP1f38xk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TimeAware_Prefix-ftgixysaxiceefdycaxoledxwuct/TimeAware_Prefix.pch.gch
+t1283966803
+s15232016
+
+NTimeAware-Info.plist
+c000000004C87C6ED000000000000038D
+t1283966701
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305659601#305659601#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/FirstViewController.o /Users/JohnJNichols4/Documents/TimeAware/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305659603.652007
+e305659603.787355
+r1
+xCompileC
+xbuild/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/FirstViewController.o
+x/Users/JohnJNichols4/Documents/TimeAware/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/JohnJNichols4/Documents/TimeAware/Classes/FirstViewController.m305659603#305659603#0(0"0(0#0#70"/Users/JohnJNichols4/Documents/TimeAware/Classes/FirstViewController.m8604542464#2001"    cd /Users/JohnJNichols4/Documents/TimeAware    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-generated-files.hmap -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-own-target-headers.hmap -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-all-target-headers.hmap -iquote /Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-project-headers.hmap -F/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator -I/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/include -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/DerivedSources/i386 -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/DerivedSources -include /var/folders/bx/bxvtdg4LHPeWy0BP1f38xk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TimeAware_Prefix-ftgixysaxiceefdycaxoledxwuct/TimeAware_Prefix.pch -c /Users/JohnJNichols4/Documents/TimeAware/Classes/FirstViewController.m -o /Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/TimeAwareAppDelegate.o /Users/JohnJNichols4/Documents/TimeAware/Classes/TimeAwareAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305659603.650943
+e305659603.797005
+r1
+xCompileC
+xbuild/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/TimeAwareAppDelegate.o
+x/Users/JohnJNichols4/Documents/TimeAware/Classes/TimeAwareAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/JohnJNichols4/Documents/TimeAware/Classes/TimeAwareAppDelegate.m305659603#305659603#0(0"0(0#0#71"/Users/JohnJNichols4/Documents/TimeAware/Classes/TimeAwareAppDelegate.m8611401728#2003"    cd /Users/JohnJNichols4/Documents/TimeAware    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-generated-files.hmap -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-own-target-headers.hmap -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-all-target-headers.hmap -iquote /Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-project-headers.hmap -F/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator -I/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/include -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/DerivedSources/i386 -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/DerivedSources -include /var/folders/bx/bxvtdg4LHPeWy0BP1f38xk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TimeAware_Prefix-ftgixysaxiceefdycaxoledxwuct/TimeAware_Prefix.pch -c /Users/JohnJNichols4/Documents/TimeAware/Classes/TimeAwareAppDelegate.m -o /Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/TimeAwareAppDelegate.o0#
+
+CCompileC build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/main.o /Users/JohnJNichols4/Documents/TimeAware/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305659603.649466
+e305659603.777527
+r1
+xCompileC
+xbuild/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/main.o
+x/Users/JohnJNichols4/Documents/TimeAware/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/JohnJNichols4/Documents/TimeAware/main.m305659603#305659603#0(0"0(0#0#47"/Users/JohnJNichols4/Documents/TimeAware/main.m8611278432#1963"    cd /Users/JohnJNichols4/Documents/TimeAware    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-generated-files.hmap -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-own-target-headers.hmap -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-all-target-headers.hmap -iquote /Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-project-headers.hmap -F/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator -I/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/include -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/DerivedSources/i386 -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/DerivedSources -include /var/folders/bx/bxvtdg4LHPeWy0BP1f38xk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TimeAware_Prefix-ftgixysaxiceefdycaxoledxwuct/TimeAware_Prefix.pch -c /Users/JohnJNichols4/Documents/TimeAware/main.m -o /Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/JohnJNichols4/Documents/TimeAware/FirstView.xib
+s305659602.004740
+e305659602.771839
+r1
+xCompileXIB
+x/Users/JohnJNichols4/Documents/TimeAware/FirstView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@24"CompileXIB FirstView.xib305659602#305659602#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#54"/Users/JohnJNichols4/Documents/TimeAware/FirstView.xib8603620000#576"    cd /Users/JohnJNichols4/Documents/TimeAware    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/FirstView.nib /Users/JohnJNichols4/Documents/TimeAware/FirstView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/JohnJNichols4/Documents/TimeAware/MainWindow.xib
+s305659602.002518
+e305659602.506081
+r1
+xCompileXIB
+x/Users/JohnJNichols4/Documents/TimeAware/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib305659602#305659602#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#55"/Users/JohnJNichols4/Documents/TimeAware/MainWindow.xib8603744256#578"    cd /Users/JohnJNichols4/Documents/TimeAware    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/MainWindow.nib /Users/JohnJNichols4/Documents/TimeAware/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/JohnJNichols4/Documents/TimeAware/SecondView.xib
+s305659602.003873
+e305659602.771699
+r1
+xCompileXIB
+x/Users/JohnJNichols4/Documents/TimeAware/SecondView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB SecondView.xib305659602#305659602#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#55"/Users/JohnJNichols4/Documents/TimeAware/SecondView.xib8603695552#578"    cd /Users/JohnJNichols4/Documents/TimeAware    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/SecondView.nib /Users/JohnJNichols4/Documents/TimeAware/SecondView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app.dSYM /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/TimeAware
+s305659604.054398
+e305659604.114049
+r1
+xGenerateDSYMFile
+x/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app.dSYM
+x/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/TimeAware
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/TimeAware.app.dSYM build/Debug-iphonesimulator/TimeAware.app/TimeAware305659604#305659604#0(0"0(0#0#92"/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/TimeAware8604569984#395"    cd /Users/JohnJNichols4/Documents/TimeAware    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/TimeAware -o /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app.dSYM0#
+
+CLd /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/TimeAware normal i386
+s305659603.797093
+e305659604.054297
+r1
+xLd
+x/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/TimeAware
+xnormal
+xi386
+lSLF07#2@97"Link /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/TimeAware305659603#305659604#0(0"0(0#0#0"8611168736#920"    cd /Users/JohnJNichols4/Documents/TimeAware    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator -F/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator -filelist /Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/Objects-normal/i386/TimeAware.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/TimeAware0#
+
+CProcessInfoPlistFile /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/Info.plist TimeAware-Info.plist
+s305659601.987564
+e305659602.002152
+r1
+xProcessInfoPlistFile
+x/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/Info.plist
+xTimeAware-Info.plist
+lSLF07#2@28"Process TimeAware-Info.plist305659601#305659602#0(0"0(0#0#61"/Users/JohnJNichols4/Documents/TimeAware/TimeAware-Info.plist32933040433463412#491"    cd /Users/JohnJNichols4/Documents/TimeAware    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TimeAware-Info.plist -genpkginfo /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app/Info.plist0#
+
+CProcessPCH /var/folders/bx/bxvtdg4LHPeWy0BP1f38xk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TimeAware_Prefix-ftgixysaxiceefdycaxoledxwuct/TimeAware_Prefix.pch.gch TimeAware_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305659602.771969
+e305659603.649221
+r1
+xProcessPCH
+x/var/folders/bx/bxvtdg4LHPeWy0BP1f38xk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TimeAware_Prefix-ftgixysaxiceefdycaxoledxwuct/TimeAware_Prefix.pch.gch
+xTimeAware_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile TimeAware_Prefix.pch305659602#305659603#0(0"0(0#0#61"/Users/JohnJNichols4/Documents/TimeAware/TimeAware_Prefix.pch8604540672#1851"    cd /Users/JohnJNichols4/Documents/TimeAware    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-generated-files.hmap -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-own-target-headers.hmap -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-all-target-headers.hmap -iquote /Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/TimeAware-project-headers.hmap -F/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator -I/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/include -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/DerivedSources/i386 -I/Users/JohnJNichols4/Documents/TimeAware/build/TimeAware.build/Debug-iphonesimulator/TimeAware.build/DerivedSources -c /Users/JohnJNichols4/Documents/TimeAware/TimeAware_Prefix.pch -o /var/folders/bx/bxvtdg4LHPeWy0BP1f38xk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TimeAware_Prefix-ftgixysaxiceefdycaxoledxwuct/TimeAware_Prefix.pch.gch0#
+
+CTouch /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app
+s305659604.114137
+e305659604.141734
+r1
+xTouch
+x/Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app
+lSLF07#2@88"Touch /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app305659604#305659604#0(0"0(0#0#0"8603691360#284"    cd /Users/JohnJNichols4/Documents/TimeAware    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/JohnJNichols4/Documents/TimeAware/build/Debug-iphonesimulator/TimeAware.app0#
+
