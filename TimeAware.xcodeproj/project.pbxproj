@@ -15,6 +15,14 @@
 		2840D7CE1179279E00D7F93C /* FirstView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2840D7CD1179279E00D7F93C /* FirstView.xib */; };
 		288765080DF74369002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765070DF74369002DB57D /* CoreGraphics.framework */; };
 		28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD73870D9D96C1002E5188 /* MainWindow.xib */; };
+		A1950688125E5FCB0055239A /* raemi_Check_mark.png in Resources */ = {isa = PBXBuildFile; fileRef = A1950687125E5FCB0055239A /* raemi_Check_mark.png */; };
+		A1E2CA241256E763006BC056 /* submitend.png in Resources */ = {isa = PBXBuildFile; fileRef = A1E2CA201256E763006BC056 /* submitend.png */; };
+		A1E2CA251256E763006BC056 /* subbegin.png in Resources */ = {isa = PBXBuildFile; fileRef = A1E2CA211256E763006BC056 /* subbegin.png */; };
+		A1E2CA271256E763006BC056 /* submit.png in Resources */ = {isa = PBXBuildFile; fileRef = A1E2CA231256E763006BC056 /* submit.png */; };
+		A1E2CA371256EBB9006BC056 /* submitnum.png in Resources */ = {isa = PBXBuildFile; fileRef = A1E2CA361256EBB9006BC056 /* submitnum.png */; };
+		A1E35A03125BF4FD0047F2D6 /* graybox.png in Resources */ = {isa = PBXBuildFile; fileRef = A1E35A02125BF4FD0047F2D6 /* graybox.png */; };
+		A1E35A10125BFAA10047F2D6 /* start over.png in Resources */ = {isa = PBXBuildFile; fileRef = A1E35A0F125BFAA10047F2D6 /* start over.png */; };
+		A1E35A21125BFDD70047F2D6 /* box1.png in Resources */ = {isa = PBXBuildFile; fileRef = A1E35A20125BFDD70047F2D6 /* box1.png */; };
 		C88F475E1238658A004C8BD5 /* CountdownViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C88F475D1238658A004C8BD5 /* CountdownViewController.m */; };
 		C88F477D12386D5A004C8BD5 /* CountdownView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C88F477C12386D5A004C8BD5 /* CountdownView.xib */; };
 /* End PBXBuildFile section */
@@ -33,6 +41,14 @@
 		28AD73870D9D96C1002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* TimeAware-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TimeAware-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		A1950687125E5FCB0055239A /* raemi_Check_mark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = raemi_Check_mark.png; sourceTree = "<group>"; };
+		A1E2CA201256E763006BC056 /* submitend.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = submitend.png; sourceTree = "<group>"; };
+		A1E2CA211256E763006BC056 /* subbegin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = subbegin.png; sourceTree = "<group>"; };
+		A1E2CA231256E763006BC056 /* submit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = submit.png; sourceTree = "<group>"; };
+		A1E2CA361256EBB9006BC056 /* submitnum.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = submitnum.png; sourceTree = "<group>"; };
+		A1E35A02125BF4FD0047F2D6 /* graybox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = graybox.png; sourceTree = "<group>"; };
+		A1E35A0F125BFAA10047F2D6 /* start over.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "start over.png"; sourceTree = "<group>"; };
+		A1E35A20125BFDD70047F2D6 /* box1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = box1.png; sourceTree = "<group>"; };
 		C88F475C1238658A004C8BD5 /* CountdownViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CountdownViewController.h; sourceTree = "<group>"; };
 		C88F475D1238658A004C8BD5 /* CountdownViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CountdownViewController.m; sourceTree = "<group>"; };
 		C88F477C12386D5A004C8BD5 /* CountdownView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CountdownView.xib; sourceTree = "<group>"; };
@@ -97,6 +113,14 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				A1950687125E5FCB0055239A /* raemi_Check_mark.png */,
+				A1E35A20125BFDD70047F2D6 /* box1.png */,
+				A1E35A0F125BFAA10047F2D6 /* start over.png */,
+				A1E35A02125BF4FD0047F2D6 /* graybox.png */,
+				A1E2CA361256EBB9006BC056 /* submitnum.png */,
+				A1E2CA201256E763006BC056 /* submitend.png */,
+				A1E2CA211256E763006BC056 /* subbegin.png */,
+				A1E2CA231256E763006BC056 /* submit.png */,
 				2840D7CD1179279E00D7F93C /* FirstView.xib */,
 				28AD73870D9D96C1002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* TimeAware-Info.plist */,
@@ -142,7 +166,14 @@
 			isa = PBXProject;
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "TimeAware" */;
 			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
 			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* TimeAware */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -160,6 +191,14 @@
 				28AD73880D9D96C1002E5188 /* MainWindow.xib in Resources */,
 				2840D7CE1179279E00D7F93C /* FirstView.xib in Resources */,
 				C88F477D12386D5A004C8BD5 /* CountdownView.xib in Resources */,
+				A1E2CA241256E763006BC056 /* submitend.png in Resources */,
+				A1E2CA251256E763006BC056 /* subbegin.png in Resources */,
+				A1E2CA271256E763006BC056 /* submit.png in Resources */,
+				A1E2CA371256EBB9006BC056 /* submitnum.png in Resources */,
+				A1E35A03125BF4FD0047F2D6 /* graybox.png in Resources */,
+				A1E35A10125BFAA10047F2D6 /* start over.png in Resources */,
+				A1E35A21125BFDD70047F2D6 /* box1.png in Resources */,
+				A1950688125E5FCB0055239A /* raemi_Check_mark.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,7 +255,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
-				SDKROOT = iphoneos4.0;
+				SDKROOT = iphonesimulator4.0;
 			};
 			name = Debug;
 		};
